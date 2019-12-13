@@ -1,0 +1,172 @@
+{
+	"Customer": [{
+			"Cname": "Shashank",
+			"CID": 1,
+			"Orders": [{
+					"name": "Iphone11",
+					"OID": 1,
+					"Date":"10/01/2019"
+				},
+				{
+					"name": "AirpodsPro",
+					"OID": 2,
+					"Date":"10/02/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Jatin",
+			"CID": 2,
+			"Orders": [{
+					"name": "Vertu",
+					"OID": 1,
+					"Date":"10/04/2019"
+				},
+				{
+					"name": "Rolex",
+					"OID": 2,
+					"Date":"10/07/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Amita",
+			"CID": 3,
+			"Orders": [{
+					"name": "LuisVuittonPurse",
+					"OID": 1,
+					"Date":"10/04/2019"
+				},
+				{
+					"name": "StanSmith",
+					"OID": 2,
+					"Date":"10/03/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Pooja",
+			"CID": 4,
+			"Orders": [{
+					"name": "KylieCosmetics",
+					"OID": 1,
+					"Date":"11/12/2019"
+				},
+				{
+					"name": "Prada",
+					"OID": 2,
+					"Date":"10/29/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Harsh",
+			"CID": 5,
+			"Orders": [{
+					"name": "LevisJeans",
+					"OID": 1,
+					"Date":"10/01/2019"
+				},
+				{
+					"name": "Adidas",
+					"OID": 2,
+					"Date":"12/01/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Natasha",
+			"CID": 6,
+			"Orders": [{
+					"name": "GucciBag",
+					"OID": 1,
+					"Date":"10/15/2019"
+				},
+				{
+					"name": "RayBanAviator",
+					"OID": 2,
+					"Date":"12/01/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Robert",
+			"CID": 7,
+			"Orders": [{
+					"name": "NikeAirMax",
+					"OID": 1,
+					"Date":"12/12/2018"
+				},
+				{
+					"name": "ColeHaan",
+					"OID": 2,
+					"Date":"11/07/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Nidhi",
+			"CID": 8,
+			"Orders": [{
+					"name": "ChanelBag",
+					"OID": 1,
+					"Date":"11/22/2019"
+				},
+				{
+					"name": "VSBombshell",
+					"OID": 2,
+					"Date":"11/22/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Idhika",
+			"CID": 9,
+			"Orders": [{
+					"name": "PradaBag",
+					"OID": 1,
+					"Date":"12/24/2018"
+				},
+				{
+					"name": "GuessAviator",
+					"OID": 2,
+					"Date":"12/11/2019"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Ajay",
+			"CID": 10,
+			"Orders": [{
+					"name": "CKJeans",
+					"OID": 1,
+					"Date":"10/13/2019"
+				},
+				{
+					"name": "GooglePixel",
+					"OID": 2,
+					"Date":"10/13/2019"
+				}
+			]
+
+		}
+	]
+}
